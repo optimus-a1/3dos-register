@@ -23,7 +23,7 @@
 
 ```bash
 .
-├── 3dosreg.py               # 主程序入口（或你命名的 Python 脚本）
+├── 3dosreg.py            # 主程序入口
 ├── gmail.txt             # 邮箱列表，每行一个 Gmail
 ├── results.csv           # 注册成功或失败的结果输出
 └── README.md             # 使用说明
